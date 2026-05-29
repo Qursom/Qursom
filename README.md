@@ -178,7 +178,7 @@ const qursom = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qursom-saqlain-e88dz0t.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qursom.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qursom)
 
 </div>
