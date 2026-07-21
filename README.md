@@ -32,7 +32,7 @@ const qursom = {
     tools     : ["Docker", "Git", "REST APIs", "JWT Auth"]
   },
   currentlyBuilding : "AI-powered full stack applications 🚀",
-  portfolio   : "https://qursom-saqlain-e88dz0t.gamma.site/"
+  portfolio   : "https://qursom.github.io/portfolio/"
 };
 ```
 
