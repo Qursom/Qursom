@@ -26,10 +26,10 @@ const qursom = {
   focus       : ["Scalable APIs", "AI-Powered Apps", "Full Stack Products"],
   stack       : {
     frontend  : ["Next.js", "Angular", "TypeScript", "TailwindCSS"],
-    backend   : ["Node.js", "NestJS", "Express", "Spring Boot"],
-    language  : ["TypeScript", "JavaScript", "Java"],
-    database  : ["MongoDB", "PostgreSQL", "MySQL"],
-    tools     : ["Docker", "Git", "REST APIs", "JWT Auth"]
+    backend   : ["Node.js", "NestJS", "Express"],
+    language  : ["TypeScript", "JavaScript", "Java","Python"],
+    database  : ["MongoDB", "PostgreSQL", "MySQL","Pinecone"],
+    tools     : ["Docker", "Git", "REST APIs", "JWT Auth","LLMS","Prompt engineering", "GenAI", "Rag","LangGraph","LangChain","MCP"]
   },
   currentlyBuilding : "AI-powered full stack applications 🚀",
   portfolio   : "https://qursom.github.io/portfolio/"
@@ -114,27 +114,9 @@ const qursom = {
 
 ---
 
-### 🛒 [Shop Hub Store](https://github.com/Qursom/shop-hub-store)
-> **Another full-featured TypeScript-powered shopping platform**
 
-- 🏪 Complete shopping experience UI
-- 📦 Modular component architecture
-- 🎯 Optimized for performance and UX
 
-`TypeScript` `Frontend` `Shopping`
 
----
-
-### 📓 [Journal App — Java Spring Boot](https://github.com/Qursom/journal-app-java-springboot)
-> **Personal journaling API built with Java & Spring Boot**
-
-- ☕ Spring Boot REST API for journal entries
-- 🔐 User authentication and data privacy
-- 📖 Full CRUD operations for journal management
-
-`Java` `Spring Boot` `REST API` `MongoDB`
-
----
 
 ## 📊 GitHub Stats
 
