@@ -6,6 +6,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Engineer+%F0%9F%A4%96;Node.js+%7C+NestJS+%7C+Next.js+%7C+Angular;AI Products+Enthusiast+%E2%98%95;Building+Intelligent+Web+Applications)](https://git.io/typing-svg)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Engineer+%F0%9F%A4%96;Node.js+%7C+NestJS+%7C+Next.js+%7C+Angular;AI+Products+Enthusiast+%E2%98%95;Building+Intelligent+Web+Applications)
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Qursom&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/Qursom)
