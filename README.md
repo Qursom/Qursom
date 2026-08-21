@@ -4,7 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%20%7C%20Qursom&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Full%20Stack%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Full+Stack+Engineer+%F0%9F%A4%96;Node.js+%7C+NestJS+%7C+Next.js+%7C+Angular;AI Products+Enthusiast+%E2%98%95;Building+Intelligent+Web+Applications)](https://git.io/typing-svg)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Engineer+%F0%9F%A4%96;Node.js+%7C+NestJS+%7C+Next.js+%7C+Angular;AI+Products+Enthusiast+%E2%98%95;Building+Intelligent+Web+Applications)
 <br/>
