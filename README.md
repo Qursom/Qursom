@@ -231,9 +231,6 @@ const qursom = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qursom)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:qursom@outlook.com)
 
-**📧 Email:** [qursom@outlook.com](mailto:qursom@outlook.com)
-
-**🌐 Portfolio:** [qursom.github.io/portfolio](https://qursom.github.io/portfolio/)
 
 </div>
 
