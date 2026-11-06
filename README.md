@@ -128,6 +128,7 @@ const qursom = {
 ### 🤖 AI Career Copilot — AI-Powered Career Platform
 
 [🌐 **Live Demo — Try AI Career Copilot**](https://ai-career-copilot-hazel.vercel.app/)
+[💻 **View Source Code on GitHub**](https://github.com/Qursom/ai-career-copilot-showcase)
 
 > **An AI-powered career assistant designed to help users improve their resumes and make smarter career decisions.**
 
@@ -144,7 +145,7 @@ const qursom = {
 ### 🍔 FoodTech — AI-Powered Food Ordering Platform
 
 [🌐 **Live Demo — Explore FoodTech**](https://foodtech-app-mean-stack.onrender.com/home)
-
+[💻 **Project Overview on GitHub**](https://github.com/Qursom/Foodtech)
 > **A full-stack food ordering platform combining a multi-vendor marketplace experience with AI-powered assistance.**
 
 - 🛒 Food browsing, cart management, and checkout experience
